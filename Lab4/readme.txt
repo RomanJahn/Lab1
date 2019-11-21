@@ -8,3 +8,5 @@
 
 4) siehe: https://kubernetes.io/docs/tutorials/stateful-application/mysql-wordpress-persistent-volume/
 
+5) URL: http://52.158.126.168/
+
